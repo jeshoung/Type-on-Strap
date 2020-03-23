@@ -9,7 +9,7 @@ tags: [Resources]
 
 ## Combined Courses
 * [Data Science Concepts Cheat Sheet](https://www.kaggle.com/timoboz/data-science-cheat-sheets) - 
-	A collection of pdf cheat sheets surrounding data science foundations useful for reviewing for technical interviews. It contains useful information for algorithms, AI, Big Data, data engineering, data mining, visualization, warrehjousing, deep learning, devOps, etc.
+	A collection of pdf cheat sheets surrounding data science foundations useful for reviewing for technical interviews. It contains useful information for algorithms, AI, Big Data, data engineering, data mining, visualization, warehousing, deep learning, devOps, etc.
 * []() - 
 
 ## Useful Data Sources
